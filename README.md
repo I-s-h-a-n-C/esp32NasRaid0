@@ -68,6 +68,14 @@ MOSI-> GPIO 23<br>
 The case files are in the 3dModels folder. It's designed to look like a satellite and protects all the components.
 
 <img width="453" height="400" alt="Screenshot 2025-12-01 173535" src="https://github.com/user-attachments/assets/ba9f13f5-8967-4f97-b3cd-80709f38c1ca" />
+<img width="1420" height="843" alt="image" src="https://github.com/user-attachments/assets/6501738c-c4f6-464f-925d-43810ede2fa8" />
+<img width="1418" height="842" alt="image" src="https://github.com/user-attachments/assets/e789d7f3-ff35-42e6-97cc-c396cd9786fc" />
+<img width="1421" height="948" alt="image" src="https://github.com/user-attachments/assets/3593df04-87ff-45a1-9445-d98ab7ac616a" />
+<img width="1417" height="952" alt="image" src="https://github.com/user-attachments/assets/f3286e17-b0c3-4b48-ae28-ec1d1f1662ee" />
+
+
+
+
 
 ## Demo on YT
 https://www.youtube.com/watch?v=oVuj8RxJoR4
