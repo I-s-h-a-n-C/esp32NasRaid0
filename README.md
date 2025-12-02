@@ -1,9 +1,9 @@
 # esp32NasRaid0
-An esp32 nas running RAID 0 on sd card modules
-ESP32 NAS with RAID 0
+An esp32 nas running RAID 0 on sd card modules<br>
+
 I wanted to make a NAS for my house, but I wanted it to be as cheap as possible and work on an SD card, so that I can take it with me on the go.
 
-What it does
+## What it does
 This is a Network Attached Storage system built on an ESP32 that uses two SD cards in RAID 0 configuration to double the storage speed and capacity. It has a web interface where you can upload, download, delete, and organize files, create folders, and search through everything.
 
 ## How I built it
