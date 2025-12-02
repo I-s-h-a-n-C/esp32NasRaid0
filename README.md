@@ -1,9 +1,9 @@
 # esp32NasRaid0
-An esp32 nas running RAID 0 on sd card modules
-ESP32 NAS with RAID 0
+An esp32 nas running RAID 0 on sd card modules<br>
+
 I wanted to make a NAS for my house, but I wanted it to be as cheap as possible and work on an SD card, so that I can take it with me on the go.
 
-What it does
+## What it does
 This is a Network Attached Storage system built on an ESP32 that uses two SD cards in RAID 0 configuration to double the storage speed and capacity. It has a web interface where you can upload, download, delete, and organize files, create folders, and search through everything.
 
 ## How I built it
@@ -40,6 +40,8 @@ The tricky part was getting two SD cards to work together. They share the same S
 
 ## Hardware Connections
 <img width="902" height="723" alt="image" src="https://github.com/user-attachments/assets/c815c46f-086f-4053-9f6d-7b9245312775" />
+<img width="1003" height="477" alt="image" src="https://github.com/user-attachments/assets/8d89d526-f94a-4327-8f7d-74436e535a80" />
+
 
 SD Card 1:<br>
 CS  -> GPIO 15 <br>
@@ -66,3 +68,14 @@ MOSI-> GPIO 23<br>
 The case files are in the 3dModels folder. It's designed to look like a satellite and protects all the components.
 
 <img width="453" height="400" alt="Screenshot 2025-12-01 173535" src="https://github.com/user-attachments/assets/ba9f13f5-8967-4f97-b3cd-80709f38c1ca" />
+<img width="1420" height="843" alt="image" src="https://github.com/user-attachments/assets/6501738c-c4f6-464f-925d-43810ede2fa8" />
+<img width="1418" height="842" alt="image" src="https://github.com/user-attachments/assets/e789d7f3-ff35-42e6-97cc-c396cd9786fc" />
+<img width="1421" height="948" alt="image" src="https://github.com/user-attachments/assets/3593df04-87ff-45a1-9445-d98ab7ac616a" />
+<img width="1417" height="952" alt="image" src="https://github.com/user-attachments/assets/f3286e17-b0c3-4b48-ae28-ec1d1f1662ee" />
+
+
+
+
+
+## Demo on YT
+https://www.youtube.com/watch?v=oVuj8RxJoR4
