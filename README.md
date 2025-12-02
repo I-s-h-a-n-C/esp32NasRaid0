@@ -63,6 +63,6 @@ MOSI-> GPIO 23<br>
 * Refresh file list without page reload
 
 ## 3D Printed Case
-The case files are in the 3D_Models folder. It's designed to look like a satellite and protects all the components.
+The case files are in the 3dModels folder. It's designed to look like a satellite and protects all the components.
 
 <img width="453" height="400" alt="Screenshot 2025-12-01 173535" src="https://github.com/user-attachments/assets/ba9f13f5-8967-4f97-b3cd-80709f38c1ca" />
