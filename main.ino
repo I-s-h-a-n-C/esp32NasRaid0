@@ -8,13 +8,13 @@
 #include <algorithm>
 #include <mutex>
 
-const char* ssid = "KakaliIshan Abode";
-const char* password = "PurpleCow2013#";
+const char* ssid = "whatever your ssid is";
+const char* password = "your wifi password";
 
 const char* nas_username = "admin";
 const char* nas_password = "123";
 
-// SD Card pins (RAID 0 configuration)
+// SD declarations change to whatever you wanna use
 #define SD1_CS     15
 #define SD2_CS     25
 #define SD_SCK     18
@@ -111,7 +111,7 @@ String currentUploadFilename = "";
 String currentUploadPath = "";
 std::vector<uint8_t> uploadBuffer;
 
-// Input sanitization
+// Input sanitization - you can tweak this if you want tbh
 String sanitizePath(String path) {
   path.trim();
   while (path.indexOf("..") != -1) {
@@ -213,7 +213,7 @@ void diagnoseSDCard(int card_index) {
     Serial.println("  ✗ Cannot write files");
   }
   
-  Serial.println("===========================\n");
+  Serial.println("===========================\n"); // you can make it ............... or something if you want
 }
 
 bool initRAIDCards() {
@@ -1982,4 +1982,5 @@ bool isAllowedFileType(const String& filename) {
     }
   }
   return false;
+
 }
