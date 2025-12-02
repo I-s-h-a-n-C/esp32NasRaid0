@@ -40,6 +40,8 @@ The tricky part was getting two SD cards to work together. They share the same S
 
 ## Hardware Connections
 <img width="902" height="723" alt="image" src="https://github.com/user-attachments/assets/c815c46f-086f-4053-9f6d-7b9245312775" />
+<img width="1003" height="477" alt="image" src="https://github.com/user-attachments/assets/8d89d526-f94a-4327-8f7d-74436e535a80" />
+
 
 SD Card 1:<br>
 CS  -> GPIO 15 <br>
